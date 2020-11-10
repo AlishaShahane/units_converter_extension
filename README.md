@@ -27,7 +27,7 @@ An extension that converts your selected values into popular units. Saves time, 
 - Convert square meter to square feet when you are calculating the measure of area
 ## Installation
 
-- Clone the repository using ```git clone https://github.com/NCSU-S/units_converter_extension.git```
+- Clone the repository using ```git clone https://github.com/AlishaShahane/units_converter_extension.git```
 - In the chrome browser open ```chrome://extensions/```
 - Enable developer settings if it is not enabled
 - Choose Load Unpacked
