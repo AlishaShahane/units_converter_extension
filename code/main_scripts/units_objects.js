@@ -35,7 +35,7 @@ const UNITS = [{
         aliases: ["grams", "gram", "gms", "gm"]
     },
     {
-        unit: "pounds",
+        unit: "pound",
         type: "mass",
         aliases: ["pounds", "pound", "lbs", "lb"]
     },
