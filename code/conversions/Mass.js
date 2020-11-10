@@ -53,7 +53,7 @@ class Mass {
                 return quantity;
             case "grams":
                 return quantity / 1000;
-            case "pounds":
+            case "pound":
                 return quantity / 2.20462262;
             case "tonne":
                 return quantity * 1000;
@@ -90,7 +90,7 @@ class Mass {
                     res += "," + this.getPreciseNumber(conv, precision) + " gms";
                     break;
                 }
-                case "pounds": {
+                case "pound": {
                     let conv = quantity * 2.20462262;
                     res += "," + this.getPreciseNumber(conv, precision) + " lbs";
                     break;
