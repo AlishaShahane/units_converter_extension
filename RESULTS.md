@@ -36,7 +36,7 @@ The lab trials were conducted using the following materials:
  
 - Google Form: During the testing, each participant was required to fill the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSexJgJxwnPkSr_mYZVBqKQKKGYIQtdvx88kXuYoqzIDqBUddw/viewform?usp=sf_link).
   
-- Baseline Application: In order to compare the performance of our project, we used the following existing [chrome extension](https://chrome.google.com/webstore/detail/unit-converter/igjeajmonjofckmiheidpmebpmdbbiam?hl=en) as a baseline application:
+- Baseline Application: In order to compare the performance of our project, we used the existing [chrome extension](https://chrome.google.com/webstore/detail/unit-converter/igjeajmonjofckmiheidpmebpmdbbiam?hl=en) as a baseline application.
  
 - Experiment document: In order to compare the ease with which the users can work with the baseline extension and our project extension, we designed two experiments mentioned in the [document](https://docs.google.com/document/d/1IfqAOpouN26ex-qVaURnJih9sjpZKCe4Gb8T8-OF4h4/edit).
 
