@@ -54,9 +54,9 @@ We used a Google sheet to note down the time taken by the participants to perfor
 ## Observations
 
 ### White Box Testing - <br>
-
+![image](https://github.com/AlishaShahane/units_converter_extension/blob/master/images/first.png)
 ### Black Box Testing - <br>
-
+![image](https://github.com/AlishaShahane/units_converter_extension/blob/master/images/second.png)
 ### Experiment 1: <br>
 The following graph depicts the amount of time taken by the users to complete the Experiment 1 with and without the extension.
 ![image](https://github.com/AlishaShahane/units_converter_extension/blob/master/images/image1_final.png)
