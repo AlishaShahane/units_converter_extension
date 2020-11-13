@@ -44,12 +44,6 @@ The lab trials were conducted using the following materials:
 We used a Google sheet to note down the time taken by the participants to perform the experiments using the baseline extension and our project extension respectively.
  
  
- 
- 
- 
- 
- 
-
 
 ## Observations
 
@@ -74,7 +68,9 @@ Users saved an average of 48 seconds in the first experiment. Whereas, they save
 
 
 ## Conclusions 
-Based on the observations, our extension is really easy to install and use when compared to the existing chrome unit converters. 
+ - Based on the observations, our extension is really easy to install and use when compared to the existing chrome unit converters. 
+ - The surveyed competitor Chrome extension required multiple efforts to select each unit, enter quantities manually which increased efforts and was unintuitive.
+ - The hover and convert in any metric feature was appreciated by many testers. 
 ## Threats to validity
 - The participants might have been well acquainted with the extension installation beforehand.
 - The participants might not be well acquainted with the coding of the extension to judge the coding related parameters.
