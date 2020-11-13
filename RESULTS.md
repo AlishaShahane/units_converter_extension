@@ -68,6 +68,10 @@ In white box testing, the tester assumes the role of a software developer and th
 
 In black box testing, the tester assumes the role of a user. He does not need to have knowledge about the working of the software. Thus, the metrics which matter most to him are ease of installation and usability. A black box tester is a correct audience to see future investment scope of a product as well. From the graphs we can observe that the ease of execution and usability is high, but less people are likely to invest in the product.
 
+From the above graphs of the conducted experiments, it is evident that the users save a significant amount of time by using our chrome extension instead of the existing one.
+Users saved an average of 48 seconds in the first experiment. Whereas, they saved an average of 29 seconds in the second experiment.
+
+
 ## Conclusions 
 
 ## Threats to validity
