@@ -1,13 +1,13 @@
-##Methods
+## Methods
 For experimenting with the Units converter, we had decided upon a variety of measurements
 
-##Materials
+## Materials
 
-##Observations
+## Observations
 
-##Analysis
+## Analysis
 
-##Conclusions 
+## Conclusions 
 
-##Threats to validity.
+## Threats to validity.
 
