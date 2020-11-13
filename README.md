@@ -9,7 +9,7 @@ An extension that converts your selected values into popular units. Saves time, 
 [![Build Status](https://travis-ci.com/NCSU-S/units_converter_extension.svg?branch=master)](https://travis-ci.com/NCSU-S/units_converter_extension)
 ![Coveralls github](https://img.shields.io/coveralls/github/NCSU-S/units_converter_extension)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/NCSU-S/units_converter_extension)
-[![DOI](https://zenodo.org/badge/300009632.svg)](https://zenodo.org/badge/latestdoi/300009632)
+[![DOI](https://zenodo.org/badge/311766401.svg)](https://zenodo.org/badge/latestdoi/311766401)
 
 **Click on the image below to view the video**
 
