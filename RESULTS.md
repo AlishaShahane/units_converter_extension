@@ -30,6 +30,30 @@ Time taken for the conversion process of each observation using each extension w
 
 ## Materials
 
+The lab trials were conducted using the following materials:
+
+- Zoom: The communication of the lab trial was done over a Zoom meeting and each participant was allotted 30 minutes to perform testing.
+ 
+- Google form: During the testing, each participant was required to fill the following Google form:
+  https://docs.google.com/forms/d/e/1FAIpQLSexJgJxwnPkSr_mYZVBqKQKKGYIQtdvx88kXuYoqzIDqBUddw/viewform?usp=sf_link
+  
+- Baseline Application: In order to compare the performance of our project, we used the following existing chrome extension as a baseline application:      https://chrome.google.com/webstore/detail/unit-converter/igjeajmonjofckmiheidpmebpmdbbiam?hl=en
+ 
+- Experiment document: In order to compare the ease with which the users can work with the baseline extension and our project extension, 
+we designed two experiments mentioned in the below document:
+https://docs.google.com/document/d/1IfqAOpouN26ex-qVaURnJih9sjpZKCe4Gb8T8-OF4h4/edit
+
+- Google sheet:
+We used a Google sheet to note down the time taken by the participants to perform the experiments using the baseline extension and our project extension respectively.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
 ## Observations
 
 ## Analysis
