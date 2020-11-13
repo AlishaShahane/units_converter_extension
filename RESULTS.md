@@ -57,6 +57,7 @@ We used a Google sheet to note down the time taken by the participants to perfor
 ## Observations
 
 ### White Box Testing - <br>
+![image](https://github.com/AlishaShahane/units_converter_extension/blob/master/images/exp1_final.png)
 
 ### Black Box Testing - <br>
 
