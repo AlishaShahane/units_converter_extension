@@ -69,6 +69,8 @@ The following graph depicts the amount of time taken by the users to complete Ex
 ## Analysis
 In white box testing, the tester assumes the role of a software developer and the three metrics that matter most to them are documentation, code readability and ability to add a new feature. From the graph, it is evident that testers found the code and documentation quite readable, but there is a weak correlation between code readability and their ability to add a new feature. The ability to add a new feature is dependent on the familiarity of the tester with JavaScript. Thus, testers who were familiar with JavaScript were more likely to add a new feature as compared to others.
 
+In black box testing, the tester assumes the role of a user. He does not need to have knowledge about the working of the software. Thus, the metrics which matter most to him are ease of installation and usability. A black box tester is a correct audience to see future investment scope of a product as well. From the graphs we can observe that the ease of execution and usability is high, but less people are likely to invest in the product.
+
 ## Conclusions 
 
 ## Threats to validity
