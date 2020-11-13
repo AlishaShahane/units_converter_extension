@@ -56,9 +56,20 @@ We used a Google sheet to note down the time taken by the participants to perfor
 
 ## Observations
 
+### White Box Testing - <br>
+
+### Black Box Testing - <br>
+
+### Experiment 1: <br>
+The following graph depicts the amount of time taken by the users to complete the Experiment 1 with and without the extension.
+
+### Experiment 2: <br>
+The following graph depicts the amount of time taken by the users to complete Experiment 2 with and without the extension.
+
 ## Analysis
+In white box testing, the tester assumes the role of a software developer and the three metrics that matter most to them are documentation, code readability and ability to add a new feature. From the graph, it is evident that testers found the code and documentation quite readable, but there is a weak correlation between code readability and their ability to add a new feature. The ability to add a new feature is dependent on the familiarity of the tester with JavaScript. Thus, testers who were familiar with JavaScript were more likely to add a new feature as compared to others.
 
 ## Conclusions 
 
-## Threats to validity.
+## Threats to validity
 
