@@ -74,5 +74,7 @@ Users saved an average of 48 seconds in the first experiment. Whereas, they save
 ## Threats to validity
 - The participants might have been well acquainted with the extension installation beforehand.
 - The participants might not be well acquainted with the coding of the extension to judge the coding related parameters.
+- The participants might not have tired and tested all the parameters of the extensions. 
+Example : The participant in our experiment tried working on currency and length but not other parameters like temperature. 
 
 
